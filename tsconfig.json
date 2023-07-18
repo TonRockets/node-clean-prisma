@@ -12,6 +12,7 @@
         "strict": true /* Enable all strict type-checking options. */,
         "skipLibCheck": true /* Skip type checking all .d.ts files. */,
         "allowJs": true,
-        "strictNullChecks": true
+        "strictNullChecks": true,
+        "baseUrl": "src"
     }
 }
